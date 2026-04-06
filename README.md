@@ -1,2 +1,17 @@
 # Portofolio-Wahyudi-metriza-
 Wahyudi metriza Cv
+{
+  "name": "portfolio-wahyudi",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
